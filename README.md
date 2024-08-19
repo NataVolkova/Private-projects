@@ -1,2 +1,4 @@
-# eda
-Cleaning and Exploration analyses
+# Private projects
+- Cleaning and Exploration analyses
+- Feature Engineering
+- Statistical Models
